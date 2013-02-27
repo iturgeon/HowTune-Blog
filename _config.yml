@@ -6,7 +6,6 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 lsi: true
-exclude: ['README.md']
 production: false
 paginate: 6 #the number of post per page
 # Themes are encouraged to use these universal variables 
@@ -103,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-37622265-1'
+        tracking_id : 'UA-37622265-2'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
